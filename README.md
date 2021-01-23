@@ -4,7 +4,7 @@ I'm a Computer Science major at The University of Texas at Dallas. During the Su
 
 <hr />
 
-🌱 Right now I'm learning more about Data Structures and Algorithms and creating side projects using `Python` and `JavaScript`. <br />
+🌱 Right now I'm learning more about Data Structures/Algorithms and creating side projects using `Python`, `JavaScript`, and `HTML/CSS`. <br />
 😄 Even more about me at <a href="https://tahmidimran.com">tahmidimran.com</a>. <br />
 📫 Connect with me on <a href="https://www.linkedin.com/in/tahmidimran/">Linkedin</a> or email me at <a href="mailto:tahmidimran1@gmail.com">tahmidimran1@gmail.com</a>! <br />
 
