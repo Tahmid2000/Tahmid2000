@@ -1,6 +1,6 @@
 ### Hi, I'm Tahmid. 👋
 
-I'm a Computer Science major at The University of Texas at Dallas. During the Summer of 2020, I interned as a Software Developer and Sales Engineer at HTB Information Systems. Right now, I'm working as a Software Developer at Atticus Capital. During the Summer of 2021, I'm going to intern as a Software Engineer at JPMorgan Chase & Co. I have substantial experience in Full Stack Web Development and Data Structures/Algorithms. Some projects I've created include <a href="https://subsort.co" target="_blank">Subsort</a> and <a href="https://blogsforall.herokuapp.com/" target="_blank">Blogs For All</a>.
+I'm a Computer Science major at The University of Texas at Dallas. During the Summer of 2020, I interned as a Software Developer and Sales Engineer at HTB Information Systems. Right now, I'm working as a Software Developer at Atticus Capital. During the Summer of 2021, I'm going to intern as a Software Engineer at JPMorgan Chase & Co. I have substantial experience with Full Stack Web Development and Data Structures/Algorithms. Some projects I've created include <a href="https://subsort.co" target="_blank">Subsort</a> and <a href="https://blogsforall.herokuapp.com/" target="_blank">Blogs For All</a>.
 
 <hr />
 
