@@ -5,7 +5,7 @@ I'm a Computer Science major at The University of Texas at Dallas. During the Su
 <hr />
 
 🌱 Right now I'm creating Full Stack projects using `Python` and `JavaScript`. <br />
-📚 I'm learning `Swift` to build projects in iOS. <br />
+📚 I'm learning `Swift` to build in iOS and iPadOS applications. <br />
 😄 Even more about me at <a href="https://tahmidimran.com">tahmidimran.com</a>. <br />
 📫 Connect with me on <a href="https://www.linkedin.com/in/tahmidimran/">Linkedin</a> or email me at <a href="mailto:tahmidimran1@gmail.com">tahmidimran1@gmail.com</a>! <br />
 
