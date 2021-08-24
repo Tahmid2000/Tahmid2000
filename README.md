@@ -4,7 +4,7 @@ I'm a Junior at the University of Texas at Dallas majoring in Computer Science. 
 
 <hr />
 
-🌱 Right now, I'm researching FinTech and its possible applications. <br />
+🌱 Right now, I'm researching FinTech and its applications. <br />
 📚 I'm learning `Swift` to build iOS and iPadOS applications. <br />
 😄 Even more about me at <a href="https://tahmidimran.com">tahmidimran.com</a>! <br />
 📫 Connect with me on <a href="https://www.linkedin.com/in/tahmidimran/">Linkedin</a> or email me at <a href="mailto:tahmidimran1@gmail.com">tahmidimran1@gmail.com</a>! <br />
