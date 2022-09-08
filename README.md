@@ -1,6 +1,6 @@
 ### Hi, I'm Tahmid. 👋
 
-I'm a Junior at the University of Texas at Dallas majoring in Computer Science. Over the past couple of years, I've worked at different companies such as Microsoft, JP Morgan Chase, and Atticus to expand my horizons as a Software Engineer. I have substantial experience with Full Stack Web Development and Data Structures & Algorithms. Some projects I've created include <a href="https://clasico.netlify.app" target="_blank">Clasico</a> and <a href="https://blogsforall.herokuapp.com/" target="_blank">Blogs For All</a>.
+I'm a Master's Student at the University of Texas at Dallas majoring in Computer Science. Over the past couple of years, I've worked at different companies such as Microsoft, JP Morgan Chase, and Atticus to expand my horizons as a Software Engineer. I have substantial experience with Full Stack Web Development and Data Structures & Algorithms. Some projects I've created include <a href="https://clasico.netlify.app" target="_blank">Clasico</a> and <a href="https://blogsforall.herokuapp.com/" target="_blank">Blogs For All</a>.
 
 <hr />
 
