@@ -1,6 +1,6 @@
 ### Hi, I'm Tahmid. 👋
 
-I'm a Master's Student at the University of Texas at Dallas majoring in Computer Science. Over the past couple of years, I've worked at different companies such as Microsoft, JP Morgan Chase, and Atticus to expand my horizons as a Software Engineer. I have substantial experience with Full Stack Web Development and Data Structures & Algorithms.
+I'm a Master's Student at the University of Texas at Dallas majoring in Computer Science. Over the past couple of years, I've worked at different companies such as Microsoft, JP Morgan Chase, and Atticus to expand my horizons as a Software Engineer.
 
 <hr />
 
