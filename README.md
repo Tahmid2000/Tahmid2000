@@ -1,6 +1,6 @@
 ### Hi, I'm <a href="https://tahmidimran.com" target="_blank">Tahmid</a>. 👋
 
-I'm a Master's Student at the University of Texas at Dallas majoring in Computer Science. Over the past couple of years, I've worked at different companies such as Microsoft, JP Morgan Chase, and Atticus to expand my horizons as a Software Engineer.
+I'm a Software Engineer at Microsoft. I previously completed my Master's Degree in Computer Science at the University of Texas at Dallas.
 
 <!--
 <hr />
