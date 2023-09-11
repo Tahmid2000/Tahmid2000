@@ -1,6 +1,6 @@
 ### Hi, I'm <a href="https://tahmidimran.com" target="_blank">Tahmid</a>. 👋
 
-I'm a Software Engineer at Microsoft. I previously completed my Master's Degree in Computer Science at UT Dallas.
+Software Engineer 😄. UT Dallas Alumni ☄️.
 
 <!--
 <hr />
